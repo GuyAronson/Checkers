@@ -1,5 +1,5 @@
 # Checkers
-This repository is a checkers game via browser, using HTML, CSS, Javascript only.
+A checkers game via browser, using HTML, CSS, Javascript only.
 Developed on JS using canvas, and can be playing using the mouse.
 
 ![image](https://user-images.githubusercontent.com/83305443/187039309-a731148b-fd68-494a-b916-23dc1272f5d5.png)
